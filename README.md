@@ -1,4 +1,4 @@
-
+## Схемы
 </head>
 <body>
 <div class="container">
@@ -7,7 +7,7 @@
 <h2>Подключение кнопок</h2>
 <table>
     <tr>
-        <th>Компонент</th>
+        <th>Кнопки</th>
         <th>Подключение к Wemos D1 Mini</th>
     </tr>
     <tr>

@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin: 15px 0;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            font-family: Arial, sans-serif;
-        }
-        h2 {
-            color: #24292e;
-            border-bottom: 1px solid #eaecef;
-            padding-bottom: 10px;
-        }
-    </style>
+
 </head>
 <body>
 <div class="container">
